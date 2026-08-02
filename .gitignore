@@ -1,0 +1,18 @@
+# Python environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv/
+env/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# MCP or other temp files
+test.py
